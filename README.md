@@ -11,4 +11,4 @@
 2. Builder. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Builder)
 3. Adapter. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Adapter)
 4. Extension Function. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Extension%20Function)
-5. Pensamento Paralelo/Assíncrono. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Processamento%20Paralelo%20e%20Assincrono)
+5. Pensamento Paralelo/Assíncrono. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Processamento%20Paralelo%20Assincrono)
