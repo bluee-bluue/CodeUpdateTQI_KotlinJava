@@ -7,8 +7,8 @@
 4. Documentando e Testando sua API Rest com Kotlin. [[Atividade Em Andamento]]()
 
 ## Desafios de Código (0/5)
-1. Singleton. [[Atividade Em Andamento]]()
-2. Builder. [[Atividade Em Andamento]]()
-3. Adapter. [[Atividade Em Andamento]]()
-4. Extensin Function. [[Atividade Em Andamento]]()
-5. Pensamento Paralelo/Assíncrono. [[Atividade Em Andamento]]()
+1. Singleton. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Singleton)
+2. Builder. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Builder)
+3. Adapter. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Adapter)
+4. Extension Function. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Extension%20Function)
+5. Pensamento Paralelo/Assíncrono. [[Repositório]](https://github.com/bluee-bluue/CodeUpdateTQI_KotlinJava/tree/main/Desafios%20de%20Codigo/Processamento%20Paralelo%20e%20Assincrono)
